@@ -3,13 +3,9 @@ public class Hello {
 
 	
 	public static void main(String[] args) {
-	int a,b, sum;
-		// TODO Auto-generated method stub
-		a =12;
-		b=10;
+	int a=10,b=2, sum;
 		sum = a + b;
-		System.out.println(sum);
-
+		System.out.println("Total: "+sum);
 	}
 
 }
